@@ -35,5 +35,4 @@
     * Component
     * Attachments (images, videos, explanation files) - when applicable
     * Number of [story points](https://www.atlassian.com/agile/project-management/estimation) - you can make assumptions here!
-  * Organize the sprints in columns adding each card to the relevant sprint;
-  * Invite pm-challenge@jungledevs.com to join the board and evaluate your work.
+  * Organize the sprints in columns adding each card to the relevant sprint.
